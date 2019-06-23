@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Luck Trial</string>
+    <string name="text">CAN YOU \n GUESS THE \n MYSTERY \n NUMBER??</string>
+    <string name="text1"></string>
+    <string name="hint">Type here...</string>
+    <string name="button">Enter</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
